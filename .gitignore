@@ -1,0 +1,10 @@
+catboost_info/*
+data_new.csv
+events.csv
+item_features_our.csv
+item_features.csv
+sample.csv
+recommendations.csv
+submission_sample.csv
+user_features_our.csv
+user_features.csv
